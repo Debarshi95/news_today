@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "category_name": "Business",
+      "img_url": "https://www.meetcharlescounty.com/clientuploads/StartingandGrowingBusiness-compressor.jpg"
+    },
+    {
+      "category_name": "Entertainment",
+      "img_url": "https://weareliferuiner.com/wp-content/uploads/2020/03/Entertainment-HERO.jpg"
+    },
+    {
+      "category_name": "Health",
+      "img_url": "https://www.fraserinstitute.org/sites/default/files/styles/large/public/understanding-universal-health-care-reform-options-privat-insurance.jpg?itok=VPI5FEbo"
+    },
+    {
+      "category_name": "Sports",
+      "img_url": "https://www2.aston.ac.uk/image-library/Sports/homepage-image-banner/sports%20banner%20football.jpg"
+    },
+    {
+      "category_name": "Science",
+      "img_url": "https://image.freepik.com/free-photo/science_1048-4662.jpg"
+    },
+    {
+      "category_name": "Technology",
+      "img_url": "https://www.trigyn.com/sites/default/files/What%20We%20Do/2019-11/Development-and-Maintenance-copy.jpg"
+    }
+  ]
+}
